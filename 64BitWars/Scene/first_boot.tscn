@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dbdkl5vcwn0qc"]
+
+[ext_resource type="Script" path="res://ScriptFolder/BootFile/FirstBootFile.gd" id="1_xixrd"]
+
+[node name="FirstBootFile" type="Node"]
+script = ExtResource("1_xixrd")

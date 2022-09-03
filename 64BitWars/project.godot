@@ -14,6 +14,10 @@ config/name="64BitWars"
 config/features=PackedStringArray("4.0", "Vulkan Clustered")
 config/icon="res://icon.png"
 
+[autoload]
+
+FirstBootFile="*res://ScriptFolder/BootFile/FirstBootFile.gd"
+
 [display]
 
 window/size/viewport_width=1920
